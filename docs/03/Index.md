@@ -2,7 +2,7 @@
 
 ## Clone a Repo
 
-This archive is owned by **REPLACE WITH YOUR NAME**
+This archive is owned by Steven Melick
 
-[My Repo](https://github.com/YOUR-NAME/UNC-Github-Practice)
+[My Repo](https://github.com/Stevenmelick/UNC-Github-Practice)
 
